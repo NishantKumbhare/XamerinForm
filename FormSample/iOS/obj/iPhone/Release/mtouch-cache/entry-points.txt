@@ -1,0 +1,26 @@
+Function=xamarin_timezone_get_data
+	/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_log
+	/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=CloseZStream
+	/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=Flush
+	/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=ReadZStream
+	/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=WriteZStream
+	/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+Function=xamarin_start_wwan
+	/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll

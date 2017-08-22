@@ -1,0 +1,15 @@
+/Hybrid/Xamarin/FormSample/iOS/bin/iPhone/Release/FormSample.iOS.app:/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/FormSample.iOS.exe
+/Hybrid/Xamarin/FormSample/iOS/bin/iPhone/Release/FormSample.iOS.app:/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/mscorlib.dll
+/Hybrid/Xamarin/FormSample/iOS/bin/iPhone/Release/FormSample.iOS.app:/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Hybrid/Xamarin/FormSample/iOS/bin/iPhone/Release/FormSample.iOS.app:/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+/Hybrid/Xamarin/FormSample/iOS/bin/iPhone/Release/FormSample.iOS.app:/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Mono.Security.dll
+/Hybrid/Xamarin/FormSample/iOS/bin/iPhone/Release/FormSample.iOS.app:/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Xml.dll
+/Hybrid/Xamarin/FormSample/iOS/bin/iPhone/Release/FormSample.iOS.app:/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Core.dll
+/Hybrid/Xamarin/FormSample/iOS/bin/iPhone/Release/FormSample.iOS.app:/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.Forms.Platform.iOS.dll
+/Hybrid/Xamarin/FormSample/iOS/bin/iPhone/Release/FormSample.iOS.app:/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.Forms.Core.dll
+/Hybrid/Xamarin/FormSample/iOS/bin/iPhone/Release/FormSample.iOS.app:/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.Forms.Platform.dll
+/Hybrid/Xamarin/FormSample/iOS/bin/iPhone/Release/FormSample.iOS.app:/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Net.Http.dll
+/Hybrid/Xamarin/FormSample/iOS/bin/iPhone/Release/FormSample.iOS.app:/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Runtime.Serialization.dll
+/Hybrid/Xamarin/FormSample/iOS/bin/iPhone/Release/FormSample.iOS.app:/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.ServiceModel.Internals.dll
+/Hybrid/Xamarin/FormSample/iOS/bin/iPhone/Release/FormSample.iOS.app:/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/FormSample.dll
+/Hybrid/Xamarin/FormSample/iOS/bin/iPhone/Release/FormSample.iOS.app:/Hybrid/Xamarin/FormSample/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.Forms.Xaml.dll

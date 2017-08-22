@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="FormSample.HomePage">
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        
+        <Entry x:Name="firstNumber" 
+                Placeholder="Enter first number"
+                FontSize="13"
+                Keyboard="Numeric"></Entry>
+        
+        <Entry x:Name="secondNumber" 
+                Placeholder="Enter second number"
+                FontSize="13"
+                Keyboard="Numeric"></Entry>
+        
+        <Button x:Name="resultButton"
+                Text="Result"
+                FontSize="13"
+                Clicked="Result_Clicked"></Button>
+        
+        <Label x:Name="outputLabel"
+                FontSize="13" 
+                StyleId="resultID"></Label>
+        
+    </StackLayout>
+</ContentPage>

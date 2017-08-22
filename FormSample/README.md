@@ -47,8 +47,11 @@ Add On Points for ios/android
 1. Android app should target just armabi-v7a (or the precise ABI on the device this app is being run on)
 FormSample.Droid->Option->Android Build->Advance Tab -> Check for armeabi-v7a
 
-4. Reduce the size of the apk or ipa generated (explain what you did to achieve this) and 
-5. Compute the reduction of size of the generated apk/ipa
+2. AOT the android application to reduce startup time
+FormSample.Droid->Option->Android Build-> Enable AOT(Experimental)/Enable LLVM Optimising compiler 
+
+3. Reduce the size of the apk or ipa generated (explain what you did to achieve this) and 
+4. Compute the reduction of size of the generated apk/ipa
 For IPA
 - FormSample.ios->Option->ios Build->Linker Behaviour -> (Link Framework SDK only/Dont Link)
 - If linker Behaviour set to Don’t Link size of IPA would be 35.7MB

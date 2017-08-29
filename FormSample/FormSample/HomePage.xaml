@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
-    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:FormSample.Behaviors;assembly=FormSample"
     x:Class="FormSample.HomePage">
     <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-        
+
         <Entry x:Name="firstNumber" 
                 Placeholder="Enter first number"
                 FontSize="13"
-                Keyboard="Numeric"></Entry>
+                Keyboard="Numeric">
+                <Entry.Behaviors>  
+                    <local:NumberValidationBehavior/>  
+                </Entry.Behaviors>
+        </Entry>
         
         <Entry x:Name="secondNumber" 
                 Placeholder="Enter second number"
                 FontSize="13"
-                Keyboard="Numeric"></Entry>
+                Keyboard="Numeric">
+                <Entry.Behaviors>  
+                    <local:NumberValidationBehavior/>  
+                </Entry.Behaviors>
+        </Entry>
         
         <Button x:Name="resultButton"
                 Text="Result"

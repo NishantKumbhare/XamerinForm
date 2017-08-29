@@ -30,9 +30,9 @@
 /Hybrid/Xamarin/Microsoft/FormSample/Droid/obj/Debug/android/assets/System.Runtime.dll
 /Hybrid/Xamarin/Microsoft/FormSample/Droid/obj/Debug/android/assets/System.ComponentModel.Composition.dll
 /Hybrid/Xamarin/Microsoft/FormSample/Droid/obj/Debug/android/assets/System.Diagnostics.Tools.dll
-/Hybrid/Xamarin/Microsoft/FormSample/Droid/obj/Debug/android/assets/System.Diagnostics.Debug.dll
 /Hybrid/Xamarin/Microsoft/FormSample/Droid/obj/Debug/android/assets/System.Threading.Tasks.dll
 /Hybrid/Xamarin/Microsoft/FormSample/Droid/obj/Debug/android/assets/System.Collections.dll
+/Hybrid/Xamarin/Microsoft/FormSample/Droid/obj/Debug/android/assets/System.Diagnostics.Debug.dll
 /Hybrid/Xamarin/Microsoft/FormSample/Droid/obj/Debug/android/assets/System.ObjectModel.dll
 /Hybrid/Xamarin/Microsoft/FormSample/Droid/obj/Debug/android/assets/System.Globalization.dll
 /Hybrid/Xamarin/Microsoft/FormSample/Droid/obj/Debug/android/assets/System.ComponentModel.dll

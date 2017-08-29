@@ -31,8 +31,9 @@ namespace FormSample
             }
             catch (Exception ex)
             {
-                Debug.WriteLine("HomePage::Excepetion::", ex);
-                throw ex;
+                Debug.WriteLine("HomePage::Excepetion::"+ex.Message);
+                showAlertWith(GlobalConstant.AlertTitle,
+                              ex.Message);
             }
         }
 

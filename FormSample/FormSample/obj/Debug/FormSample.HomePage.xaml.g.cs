@@ -11,7 +11,7 @@
 namespace FormSample {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Hybrid/Xamarin/FormSample/FormSample/HomePage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Hybrid/Xamarin/Microsoft/FormSample/FormSample/HomePage.xaml")]
     public partial class HomePage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

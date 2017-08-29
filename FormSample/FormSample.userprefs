@@ -1,16 +1,21 @@
-﻿<Properties StartupConfiguration="{7040D9A3-39D3-44E3-BE4C-76FF58DE0BA2}|Default">
-  <MonoDevelop.Ide.ItemProperties.FormSample.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
-  <MonoDevelop.Ide.ItemProperties.FormSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FormSample/HomePage.xaml">
+﻿<Properties StartupConfiguration="{02897B7C-A863-43A7-8E83-BFB02878B78C}|Default">
+  <MonoDevelop.Ide.ItemProperties.FormSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0E90FC30-D76C-4924-BEB3-828AB3C38EA1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormSample/HomePage.xaml.cs">
     <Files>
-      <File FileName="FormSample/HomePage.xaml" Line="28" Column="1" />
-      <File FileName="FormSample/HomePage.xaml.cs" Line="27" Column="24" />
+      <File FileName="FormSample/HomePage.xaml" Line="11" Column="35" />
+      <File FileName="FormSample/HomePage.xaml.cs" Line="34" Column="19" />
+      <File FileName="FormSample/BinaryOperation.cs" Line="24" Column="10" />
+      <File FileName="FormSample/GlobalConstant.cs" Line="5" Column="25" />
       <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="FormSample/Behaviors/NumberValidationBehavior.cs" Line="27" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Hybrid/Xamarin/Microsoft/FormSample/FormSample/HomePage.xaml" relfile="FormSample/HomePage.xaml" line="28" column="1" />
+      <Breakpoint file="/Hybrid/Xamarin/Microsoft/FormSample/FormSample/HomePage.xaml.cs" relfile="FormSample/HomePage.xaml.cs" line="33" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />

@@ -1,9 +1,9 @@
 # Version: 10.14.0.18 (d15-4: 35e19853)
 # [first argument, ignore] # --cache
 /Library/Frameworks/Xamarin.iOS.framework/Versions/10.14.0.18/lib/mtouch/mtouch.exe \
-	/Hybrid/Xamarin/FormSample/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-cache \
+	/Hybrid/Xamarin/Microsoft/FormSample/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-cache \
 	--sim \
-	/Hybrid/Xamarin/FormSample/iOS/bin/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/FormSample.iOS.app \
+	/Hybrid/Xamarin/Microsoft/FormSample/iOS/bin/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/FormSample.iOS.app \
 	--executable \
 	FormSample.iOS \
 	--debug \
@@ -18,10 +18,10 @@
 	--http-message-handler=HttpClientHandler \
 	--abi=x86_64 \
 	--symbollist \
-	/Hybrid/Xamarin/FormSample/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-symbols.list \
+	/Hybrid/Xamarin/Microsoft/FormSample/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-symbols.list \
 	--dsym=no \
 	-r \
-	/Hybrid/Xamarin/FormSample/FormSample/bin/Debug/FormSample.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/FormSample/bin/Debug/FormSample.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r \
@@ -31,13 +31,13 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	-r \
@@ -315,83 +315,83 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/FormSample/bin/Debug/FormSample.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/FormSample/bin/Debug/FormSample.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/ar/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/ar/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/ca/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/ca/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/cs/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/cs/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/da/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/da/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/de/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/de/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/el/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/el/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/es/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/es/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/fi/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/fi/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/fr/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/fr/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/he/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/he/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/hi/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/hi/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/hr/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/hr/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/hu/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/hu/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/id/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/id/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/it/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/it/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/ja/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/ja/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/ko/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/ko/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/ms/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/ms/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/nb/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/nb/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/nl/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/nl/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/pl/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/pl/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/pt/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/pt/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/ro/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/ro/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/ru/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/ru/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/sk/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/sk/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/sv/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/sv/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/th/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/th/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/tr/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/tr/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/uk/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/uk/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/vi/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/vi/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Hybrid/Xamarin/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Hybrid/Xamarin/Microsoft/FormSample/packages/Xamarin.Forms.2.3.4.267/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll \
 	--target-framework \
 	'Xamarin.iOS,v1.0' \
-	/Hybrid/Xamarin/FormSample/iOS/bin/iPhoneSimulator/Debug/FormSample.iOS.exe \
+	/Hybrid/Xamarin/Microsoft/FormSample/iOS/bin/iPhoneSimulator/Debug/FormSample.iOS.exe \
